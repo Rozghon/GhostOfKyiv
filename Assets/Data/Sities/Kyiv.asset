@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72036b9c309c42f41a69bd2dbeb0e644, type: 3}
+  m_Name: Kyiv
+  m_EditorClassIdentifier: 
+  _name: Kyiv
+  _description: 
+  _bestScore: 0
+  _sityPoint: 0
+  _healthLevel: 1
+  _regenLevel: 1
+  _antiAirLevel: 1
+  _healthPoints: 50
+  _healthRegen: 1
+  _antiAirDamage: 1
+  _healthPointsGrow: 5
+  _healthRegenGrow: 1
+  _antiAirDamageGrow: 1
+  _healthUpPrice: 0
+  _regenUpPrice: 0
+  _antiAirDamageUpPrice: 0
